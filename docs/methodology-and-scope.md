@@ -33,11 +33,6 @@ The repository contains a simulated Udacity healthcare AI governance case, inclu
 
 Install dependencies from `starter/requirements.txt`, open `starter/governance_assessment.ipynb`, run cells in order, and inspect generated files in `starter/results/`. Python code and project outputs are provided for learning and review.
 
-## Authorship and educational disclosure
-
-The scenario, source files, and graded assessment framework originated from Udacity. The completed notebook, workbook, visualizations, and this portfolio documentation were created with substantial AI assistance. This educational work was reported by the learner as having **passed the Udacity project review**. That does not by itself establish completion of an entire program or award of a professional certification.
-
-Nothing in this repository should be read as professional clinical advice, regulatory certification, client work, or proof of independently implemented production AI controls. Course sharing and academic-use rights are governed by the relevant Udacity terms.
 
 ## Primary references
 
