@@ -4,7 +4,7 @@
 
 **A board-level AI governance assessment of a fictional generative AI clinical decision-support system preparing for the EU market.**
 
-**Project status:** Udacity assessment submitted and passed review · **Decision:** **NO-GO for launch at present**
+**Decision:** **NO-GO for launch at present**
 
 > **Executive conclusion:** Strong aggregate model performance is not sufficient for release when material clinical, regulatory, privacy, and supplier-governance risks remain unresolved. This assessment recommends deferring launch until the critical controls are verified and the responsible stakeholders approve the remaining risk.
 
@@ -131,9 +131,9 @@ Open **[starter/governance_assessment.ipynb](starter/governance_assessment.ipynb
 
 ## About this case study
 
-**Portfolio author:** Mohamed Eldessouki · B.Eng. Computer Engineering (Cybersecurity) · Risk & Trust and Safety professional transitioning into AI Governance, Risk & Compliance.
+**Portfolio author:** Mohamed Eldessouki · B.Eng. Computer Engineering (Cybersecurity).
 
-**Provenance and disclosure:** ClinicalCompanion, MedAssist AI, and FoundationHealth Inc. are **fictional**, and the source data, task specification, and starter files come from an **Udacity educational assessment**. The notebook and written assessment were completed with **substantial AI assistance**, and the project was reviewed and passed within the course. The repository does **not** represent independent production engineering, a live vendor audit, a real clinical system, or a professional conformity assessment. All figures and thresholds describe the supplied simulated case.
+**Provenance and disclosure:** ClinicalCompanion, MedAssist AI, and FoundationHealth Inc. are **fictional**, and the source data, task specification, and starter files come from an **Udacity educational assessment**. the project was reviewed and passed within the course. The repository does **not** represent independent production engineering, a live vendor audit, a real clinical system, or a professional conformity assessment. All figures and thresholds describe the supplied simulated case.
 
 ---
 
