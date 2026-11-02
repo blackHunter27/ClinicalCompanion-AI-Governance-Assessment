@@ -1,0 +1,15 @@
+# Local environment and temporary outputs
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.vscode/
+.DS_Store
+Thumbs.db
+*.tmp
+~$*.xlsx
+
+# The original educational datasets and graded deliverables are intentionally
+# versioned in this repository. Do not ignore starter/data or starter/results.
