@@ -2,7 +2,7 @@
 
 ## Scope and input evidence
 
-The repository contains a simulated Udacity healthcare AI governance case, including its original CSV and JSON reference files, the completed Python notebook, six generated visualizations, and a six-sheet Excel governance assessment. There is no real clinical deployment, real-world patient data, external vendor audit, or regulatory submission.
+The repository contains a simulated healthcare AI governance case from Udacity Accenture Training, including its original CSV and JSON reference files, the completed Python notebook, six generated visualizations, and a six-sheet Excel governance assessment. There is no real clinical deployment, real-world patient data, external vendor audit, or regulatory submission.
 
 ## Approach
 

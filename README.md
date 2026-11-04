@@ -1,8 +1,12 @@
 # ClinicalCompanion — Healthcare AI Governance & EU Launch Assessment
 
+**Udacity Accenture Training | AI Governance, Risk & Compliance**
+
+**Certificate:** [View AI Governance certificate](https://www.udacity.com/certificate/e/9f8ef37a-ae21-11f1-8f77-932c385c4d9c)
+
 ### EU AI Act · NIST AI RMF · Third-Party Risk · Model Cards · Clinical AI Safety
 
-**A board-level AI governance assessment of a fictional generative AI clinical decision-support system preparing for the EU market.**
+**A board-level AI governance assessment of a fictional generative AI clinical decision-support system preparing for the EU market, completed as part of my Udacity Accenture Training.**
 
 **Decision:** **NO-GO for launch at present**
 
@@ -36,10 +40,9 @@ ClinicalCompanion is a simulated clinical decision-support system that analyzes 
 | **[Completed governance assessment workbook](starter/governance_workbook.xlsx)** | Six sheets: EU AI Act classification, Risk Register, Vendor Evaluation, Model Card, Monitoring & Incidents, Executive Summary |
 | **[Six full-resolution charts](starter/results/)** | Risk, vendor, fairness, monitoring, and executive dashboard visualizations |
 | **[Input datasets](starter/data/)** | Ten CSV/JSON files supplied with the educational case |
-| **[Original scenario brief](starter/README.md)** | Udacity assignment context and requirements |
 | **[Board decision brief](docs/board-decision-brief.md)** | Board recommendation, release gates, and evidence required |
 | **[Risk-to-control map](docs/risk-control-traceability.md)** | How issues translate into verifiable governance controls |
-| **[Methodology and limitations](docs/methodology-and-scope.md)** | Risk-score assumptions, evidence boundaries, and transparent AI-assistance disclosure |
+| **[Methodology and limitations](docs/methodology-and-scope.md)** | Risk-score assumptions, evidence boundaries, and methodological limitations |
 
 ## Visual assessment gallery
 
@@ -133,7 +136,7 @@ Open **[starter/governance_assessment.ipynb](starter/governance_assessment.ipynb
 
 **Portfolio author:** Mohamed Eldessouki · B.Eng. Computer Engineering (Cybersecurity).
 
-**Provenance and disclosure:** ClinicalCompanion, MedAssist AI, and FoundationHealth Inc. are **fictional**, and the source data, task specification, and starter files come from an **Udacity educational assessment**. the project was reviewed and passed within the course. The repository does **not** represent independent production engineering, a live vendor audit, a real clinical system, or a professional conformity assessment. All figures and thresholds describe the supplied simulated case.
+**Provenance and disclosure:** ClinicalCompanion, MedAssist AI, and FoundationHealth Inc. are **fictional**, and the source data, task specification, and starter files come from the **Udacity Accenture Training** case study. The project was reviewed and passed. The repository does **not** represent independent production engineering, a live vendor audit, a real clinical system, or a professional conformity assessment. All figures and thresholds describe the supplied simulated case.
 
 ---
 
